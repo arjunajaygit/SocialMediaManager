@@ -14,7 +14,7 @@ This project demonstrates modern .NET development, React, Clean Architecture, an
 - Cloud Storage: Cloudinary for media assets
 - AI Integration: Azure OpenAI / Gemini for AI-assisted post generation
 
-## ✨ Enterprise-Grade Features & Architecture
+## Features & Architecture
 
 The application was engineered with scalability, security, and reliability in mind, following Clean Architecture principles.
 
