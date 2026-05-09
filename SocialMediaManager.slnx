@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SocialMediaManager.API/SocialMediaManager.API.csproj" />
+  <Project Path="SocialMediaManager.Application/SocialMediaManager.Application.csproj" />
+  <Project Path="SocialMediaManager.Domain/SocialMediaManager.Domain.csproj" />
+  <Project Path="SocialMediaManager.Infrastructure/SocialMediaManager.Infrastructure.csproj" />
+</Solution>
