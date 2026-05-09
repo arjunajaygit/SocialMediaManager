@@ -1,4 +1,4 @@
-# 🚀 Social Media Manager (Digital Marketing Automation Tool)
+# SocialSync (Digital Marketing Automation Tool)
 
 A full-stack digital marketing application designed to help users schedule, manage, and publish content across multiple social media platforms simultaneously, including LinkedIn and X/Twitter.
 
