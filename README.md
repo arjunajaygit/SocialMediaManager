@@ -114,7 +114,24 @@ The codebase is decoupled to support testability and maintainability:
    npm run dev
    ```
 
-## 💡 Technical Challenges Overcome
+## � Screenshots
+
+### Connect Channels
+Connect and manage your LinkedIn and X/Twitter accounts securely. The application displays your account usernames and allows easy disconnection when needed.
+
+![Connect Channels](/docs/screenshots/connect-channels.png)
+
+### Create Post
+Compose posts with optional AI-generated captions using OpenAI or Gemini. Add images, select target platforms, and schedule publication directly from the interface.
+
+![Create Post](/docs/screenshots/create-post.png)
+
+### Scheduled Posts
+View all scheduled posts with per-platform publication status. Track which posts have been published or are pending, with real-time status updates from the background job processor.
+
+![Scheduled Posts](/docs/screenshots/scheduled-posts.png)
+
+## �💡 Technical Challenges Overcome
 
 - Strict API scopes: Requested the correct X scopes, including `tweet.read`, `tweet.write`, and `users.read`, to avoid authorization errors.
 - Complex JSON schemas: Used dynamic dictionary-based payloads to match LinkedIn UGC API requirements.
