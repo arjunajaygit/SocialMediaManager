@@ -131,7 +131,7 @@ View all scheduled posts with per-platform publication status. Track which posts
 
 ![Scheduled Posts](/docs/screenshots/scheduled-posts.png)
 
-## �💡 Technical Challenges Overcome
+## 💡 Technical Challenges Overcome
 
 - Strict API scopes: Requested the correct X scopes, including `tweet.read`, `tweet.write`, and `users.read`, to avoid authorization errors.
 - Complex JSON schemas: Used dynamic dictionary-based payloads to match LinkedIn UGC API requirements.
