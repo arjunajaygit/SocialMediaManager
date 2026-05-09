@@ -114,7 +114,7 @@ The codebase is decoupled to support testability and maintainability:
    npm run dev
    ```
 
-## � Screenshots
+## Screenshots
 
 ### Connect Channels
 Connect and manage your LinkedIn and X/Twitter accounts securely. The application displays your account usernames and allows easy disconnection when needed.
